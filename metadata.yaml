@@ -1,0 +1,27 @@
+_repo: The-American-Child_10398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCracken, Elizabeth
+    aliases:
+    - Priestley, L. A. M.
+    - McCracken, Mrs. George
+    birthdate: 1876
+    gutenberg_agent_id: '3511'
+    url: http://www.gutenberg.org/2009/agents/3511
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Parent and child'
+- !lcsh 'Children'
+- GITenberg
+title: The American Child
+url: http://www.gutenberg.org/ebooks/10398
